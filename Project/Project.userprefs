@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InstanciadorDeZombies.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Plantas\azul.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Plantas\LanzaGuizantes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Guisante.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Plantas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Zombie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InstanciadorDeZombies.cs" Line="16" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
